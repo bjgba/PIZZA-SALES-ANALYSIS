@@ -29,7 +29,6 @@ This repository contains a Power BI project focused on analyzing pizza sales dat
 
 
 
-  
-![Screenshot (4)](https://github.com/bjgba/PIZZA-SALES-DASHBOARD/assets/162343390/184b2bc9-e7c8-40e7-b540-d8aa779eccc7)
 
+![Screenshot (7)](https://github.com/bjgba/PIZZA-SALES-DASHBOARD/assets/162343390/d72dd77e-96ac-456d-8868-f262cdc5fa3f)
 
